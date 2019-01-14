@@ -1,0 +1,23 @@
+{
+  "name": "usespring-react-hook",
+  "version": "1.0.0",
+  "description": "Shows how you can use the useSpring hook and react-spring library to create high-performance interactive animations.",
+  "keywords": ["hooks", "animation", "react"],
+  "main": "src/index.js",
+  "dependencies": {
+    "javascript": "1.0.0",
+    "react": "16.7.0-alpha.0 - next",
+    "react-dom": "16.7.0-alpha.0 - next",
+    "react-particles-js": "2.4.0",
+    "react-scripts": "2.0.3",
+    "react-spring": "6.1.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+}
